@@ -1,0 +1,1 @@
+# Verificador-sha256-bash-script
