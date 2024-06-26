@@ -13,7 +13,8 @@ Este projeto é um script em Bash que eu fiz quando estava estudando pentest, el
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/Kermexx/Verificador-sha256-bash-script
+.git
     cd nome-do-repositorio
     ```
 
