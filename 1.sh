@@ -1,5 +1,3 @@
-#UM BASH SCRIPT CRIADO QUANDO ESTAVA ESTUDANDO PENTEST
-
 #!/bin/bash
 
 # Lista de arquivos
